@@ -16,6 +16,8 @@ A continuación se va a ir poniendo los temas que se tratan con los links de los
 
 ## Actividades
 
+en esta sección se mostrarán las actividades que se van a utilizar con mayor frecuencia para realizar automatizaciones.
+
 1. [Selectores]() (próximamente): se mostrará cómo se puede utilizar los Selectores para indicarle al bot dónde debe realizar una acción.
 
 2. [Click]() (próximamente): se mostrará cómo se puede utilizar la actividad de Click para realizar una automatización con clicks.
@@ -26,8 +28,14 @@ A continuación se va a ir poniendo los temas que se tratan con los links de los
 
 5. [Manejo de flujo de trabajo mediante control de flujos y condicionales (If, for each)]() (próximamente): se mostrará cómo se puede utilizar las actividades de control de flujo y condicionales para poder manejar el flujo de trabajo que va a realizar el bot.
 
+6. [Manejo de excepciones (Try Catch)]() (próximamente): se mostrará cómo se puede utilizar la actividad de Try Catch para poder manejar las excepciones que se puedan presentar durante la ejecución del bot.
+
+7. [Data Scraping]() (próximamente): se mostrará cómo se puede utilizar la actividad de Data Scraping para poder extraer información de una página web.
+
 
 ## Sistema de control de versiones/cambios (Git)
+
+en esta sección se mostrará cómo se puede utilizar Git y Github para poder trabajar de forma colaborativa, tener un control de versiones y poder compartir los bots que se realicen.
 
 1. [Introducción a Git y Github](https://youtu.be/3LnZdVOtcUw): se explicará brevemente que es Git y Github, para qué sirve y cómo se puede utilizar para trabajar de forma colaborativa.
 
