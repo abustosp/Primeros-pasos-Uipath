@@ -20,7 +20,7 @@ en esta sección se mostrarán las actividades que se van a utilizar con mayor f
 
 1. [Selectores]() (próximamente): se mostrará cómo se puede utilizar los Selectores para indicarle al bot dónde debe realizar una acción.
 
-2. [Click]() (próximamente): se mostrará cómo se puede utilizar la actividad de Click para realizar una automatización con clicks.
+2. [Click](https://youtu.be/xW-VNibaIUs): se mostrará una introducción a la actividad de Click para realizar una automatización con clicks.
 
 3. [Type Into]() (próximamente): se mostrará cómo se puede utilizar la actividad de Type Into ("Tipear") para realizar una automatización con tipeo de textos.
 
