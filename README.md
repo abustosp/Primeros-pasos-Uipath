@@ -24,7 +24,7 @@ en esta sección se mostrarán las actividades que se van a utilizar con mayor f
 
 3. [Type Into](https://youtu.be/HFaIMxspSHM): se mostrará una introducción de cómo se puede utilizar la actividad de Type Into ("Tipear") para realizar una automatización con tipeo de textos.
 
-4. [Open Browser/App & Attach Browser/Window]() (próximamente): se mostrará cómo se puede utilizar la actividad de Abrir Navegador/Aplicación y Adjuntar Navegador/Ventana para poder seleccionar la ventana en la que se va a trabajar.
+4. [Open Browser/App & Attach Browser/Window](https://youtu.be/F_PdbpFEXks): se mostrará una introducción cómo se puede utilizar la actividad de Abrir Navegador/Aplicación y Adjuntar Navegador/Ventana para poder seleccionar la ventana en la que se va a trabajar.
 
 5. [Manejo de flujo de trabajo mediante control de flujos y condicionales (If, for each)]() (próximamente): se mostrará cómo se puede utilizar las actividades de control de flujo y condicionales para poder manejar el flujo de trabajo que va a realizar el bot.
 
