@@ -22,7 +22,7 @@ en esta sección se mostrarán las actividades que se van a utilizar con mayor f
 
 2. [Click](https://youtu.be/xW-VNibaIUs): se mostrará una introducción a la actividad de Click para realizar una automatización con clicks.
 
-3. [Type Into]() (próximamente): se mostrará cómo se puede utilizar la actividad de Type Into ("Tipear") para realizar una automatización con tipeo de textos.
+3. [Type Into](https://youtu.be/HFaIMxspSHM): se mostrará una introducción de cómo se puede utilizar la actividad de Type Into ("Tipear") para realizar una automatización con tipeo de textos.
 
 4. [Open Browser/App & Attach Browser/Window]() (próximamente): se mostrará cómo se puede utilizar la actividad de Abrir Navegador/Aplicación y Adjuntar Navegador/Ventana para poder seleccionar la ventana en la que se va a trabajar.
 
