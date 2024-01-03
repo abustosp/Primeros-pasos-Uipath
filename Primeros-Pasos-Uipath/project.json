@@ -2,7 +2,7 @@
   "name": "Primeros-Pasos-Uipath",
   "projectId": "166a51ed-4828-42aa-a870-6814e908c3c2",
   "description": "Demostración de Principales actividades de Uipath",
-  "main": "Main.xaml",
+  "main": "main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.0-preview]",
     "UiPath.Mail.Activities": "[1.21.1]",
@@ -49,8 +49,14 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "1c7be161-0d40-4526-8a29-aee3bc6c3949",
+      "filePath": "Type Into.xaml",
+      "uniqueId": "237bd118-fe56-4af1-b8c9-a98e87b6d45e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "main.xaml",
+      "uniqueId": "75331831-6eb7-4823-86dd-6e1a69f403d7",
       "input": [],
       "output": []
     }
