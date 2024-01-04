@@ -7,7 +7,7 @@ A continuación se va a ir poniendo los temas que se tratan con los links de los
 
 ## Introduccion
 
-1. [Introducción a RPA]() (próximamente): se definirá que es RPA, para qué sirve y que cosas se pueden hacer.
+1. [Introducción a RPA](https://youtu.be/ClIeEN8Ukl4): se definirá que es RPA, para qué sirve y que cosas se pueden hacer.
 
 2. [Crear cuenta de UiPath, Descarga e Instalación](https://youtu.be/QZ9xbM-NV3s): se mostrarán los pasos para crear una cuenta community (gratuita) y de cómo descargar e instalar Uipath Studio (no la Studio X).
 
