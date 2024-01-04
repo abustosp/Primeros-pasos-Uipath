@@ -26,7 +26,7 @@ en esta sección se mostrarán las actividades que se van a utilizar con mayor f
 
 4. [Open Browser/App & Attach Browser/Window](https://youtu.be/F_PdbpFEXks): se mostrará una introducción cómo se puede utilizar la actividad de Abrir Navegador/Aplicación y Adjuntar Navegador/Ventana para poder seleccionar la ventana en la que se va a trabajar.
 
-5. [Manejo de flujo de trabajo mediante control de flujos y condicionales (If, for each)]() (próximamente): se mostrará cómo se puede utilizar las actividades de control de flujo y condicionales para poder manejar el flujo de trabajo que va a realizar el bot.
+5. [Manejo de flujo de trabajo mediante control de flujos y condicionales (If, for each row in datatable), read range y String Format](https://youtu.be/Yke7GZp8aTo): se mostrará cómo se puede utilizar las actividades de control de flujo y condicionales para trabajar con ciclos manejar el flujo de trabajo que va a realizar el bot. Además se muestra bevemente la utilización de la actividad de Read Range para leer un archivo de Excel y la actividad de String Format para poder formatear un string (texto).
 
 6. [Manejo de excepciones (Try Catch)]() (próximamente): se mostrará cómo se puede utilizar la actividad de Try Catch para poder manejar las excepciones que se puedan presentar durante la ejecución del bot.
 
