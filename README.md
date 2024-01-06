@@ -11,7 +11,7 @@ A continuación se va a ir poniendo los temas que se tratan con los links de los
 
 2. [Crear cuenta de UiPath, Descarga e Instalación](https://youtu.be/QZ9xbM-NV3s): se mostrarán los pasos para crear una cuenta community (gratuita) y de cómo descargar e instalar Uipath Studio (no la Studio X).
 
-3. [Introucción a la Interfaz de UiPath](https://youtu.be/OW203VlKOYM): se mostrará la interfaz de Uipath, se explicará brevemente las partes que la componen y cuales son las que se van a utilizar con mayor frecuencia. 
+3. [Introducción a la Interfaz de UiPath](https://youtu.be/OW203VlKOYM): se mostrará la interfaz de Uipath, se explicará brevemente las partes que la componen y cuales son las que se van a utilizar con mayor frecuencia. 
 
 
 ## Actividades
