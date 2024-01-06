@@ -18,7 +18,7 @@ A continuación se va a ir poniendo los temas que se tratan con los links de los
 
 en esta sección se mostrarán las actividades que se van a utilizar con mayor frecuencia para realizar automatizaciones.
 
-1. [Selectores]() (próximamente): se mostrará cómo se puede utilizar los Selectores para indicarle al bot dónde debe realizar una acción.
+1. [Selectores](https://youtu.be/0oJckEsNv0w): se mostrará cómo se puede utilizar los Selectores estáticos, dinámicos y comodines para indicarle al bot dónde debe realizar una acción.
 
 2. [Click](https://youtu.be/xW-VNibaIUs): se mostrará una introducción a la actividad de Click para realizar una automatización con clicks.
 
