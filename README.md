@@ -30,7 +30,7 @@ en esta sección se mostrarán las actividades que se van a utilizar con mayor f
 
 6. [Manejo de excepciones (Try Catch)](https://youtu.be/cVrdOvwtqDE): se mostrará cómo se puede utilizar la actividad de Try Catch y Continue on Error para poder manejar las excepciones que se puedan presentar durante la ejecución del bot.
 
-7. [Data Scraping]() (próximamente): se mostrará cómo se puede utilizar la actividad de Data Scraping para poder extraer información de una página web.
+7. [Data Scraping y Get Text](https://youtu.be/qG6gdV9PN80): se mostrará cómo se puede utilizar la actividad de Data Scraping y Get Text para poder extraer información de una página web y Exportarlo a un CSV.
 
 
 ## Sistema de control de versiones/cambios (Git)
