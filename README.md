@@ -32,6 +32,8 @@ en esta sección se mostrarán las actividades que se van a utilizar con mayor f
 
 7. [Data Scraping y Get Text](https://youtu.be/qG6gdV9PN80): se mostrará cómo se puede utilizar la actividad de Data Scraping y Get Text para poder extraer información de una página web y Exportarlo a un CSV.
 
+8. [Anclaje de Selectores (Anchor Base) - RPA challenge](https://youtu.be/JaD98viqCH0?si=bgzZiSGtYkOAC_l2): se mostrará cómo se puede utilizar la actividad de Anchor Base para poder realizar seleccionar un elemento en una página web en condición de que otro elemento esté presente. Ademas se verá una integración con otras actividades como Read Range, Type Into, Click para poder realizar una automatización de un RPA Challenge.
+
 
 ## Sistema de control de versiones/cambios (Git)
 
