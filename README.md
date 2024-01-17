@@ -16,7 +16,7 @@ A continuación se va a ir poniendo los temas que se tratan con los links de los
 
 ## Actividades
 
-en esta sección se mostrarán las actividades que se van a utilizar con mayor frecuencia para realizar automatizaciones.
+en esta sección se mostrarán las actividades que se van a utilizar con mayor frecuencia para realizar automatizaciones. Lo ideal es ver como funcionan casi todas las actividades antes de realizar un bot porque generalmente se complementan o se utilizan en conjunto.
 
 1. [Selectores](https://youtu.be/0oJckEsNv0w): se mostrará cómo se puede utilizar los Selectores estáticos, dinámicos y comodines para indicarle al bot dónde debe realizar una acción.
 
