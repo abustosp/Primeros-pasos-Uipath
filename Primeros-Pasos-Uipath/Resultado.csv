@@ -1,0 +1,113 @@
+﻿Nombre del bot|Descripción
+Nacional_Docker|
+Auto_Updater|
+Docker-Compose-stacks|
+BOT-Facturador-AFIP|"BOT para realizar Facturas desde el servicio ""Comprobantes el Línea"" en base a un Excel (monousuario"
+Consolidar-Mis-Comprobantes-AFIP|Programa para automatizar el consolidado de Mis Comprobantes Emitidos y Recibidos y generación de un Reporte de control
+Control-MC-con-contenido|
+Bots-Python|
+Descargar-y-Enviar-Facturas-de-1-contribuyente|Bot para descargar las Facturas Emitidas de un contribuyente y enviarlas a los clientes
+UiPath-Backup|
+Automation-LM|
+bcra-api|consultas de la API del bcra
+Consolidar-Excels-hoja-activa|
+camelot|A Python library to extract tabular data from PDFs
+python-taxes|Python code for computing Federal and CA state taxes
+bracket|Selfhosted tournament system with web interface
+awesome-generative-ai-guide|A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+pyfpdf|Simple PDF generation for Python (FPDF PHP port)
+pyafipws|Factura Electrónica AFIP y otros servicios web (proyecto software libre) — Interfases, tools and apps for Argentina's gov't. webservices (soap, com/dll simil-ocx, pdf, dbf, xml, json, etc.) #python
+afip.py|Libreria para usar los Web Services de AFIP con Python
+Devolucion-de-Percepcion-Ganancias|BOT para solicitar las devoluciones de Percepciones de Ganancias Sufridas en un rango de periodos
+Carga-de-F2002|Bot para Cargar masivamente el F2002 de IVA en AFIP
+aircrack-ng|WiFi security auditing tools suite
+Descarga_MC_AFIP|BOT para descargar de manera masiva los Archivos de Mis Comprobantes Recibidos y Emitidos de AFIP
+Primeros-pasos-Uipath|Hoja de Ruta para aprender a utilizar Uipath para poder crear nuestros propios bots (RPA)
+Novedades_Salary|
+pysimplesoap|Python Simple SOAP Library
+TransformadorExtractosPDFaExcel|Transformacion de Extractos bancarios de PDF a Excel
+Descarga-de-Alicuota-de-ART-y-Carga-a-F931|Descarga de Alicuotas de ART y Carga de las mismas al F931
+Alicuotas_IIBB_Flask|
+XML_SIFERE|
+Cruce_CUITs_Filtradas|
+RETPER-IIBB-AGIP-ARBA|BOT para descargar las RETPER de IIBB de AGIP y ARBA
+RET-PER-IIBB|
+Update-All-and-fix-store|
+automationtechstudio|Automatizaciones para automationtechstudio.com
+bot_descarga_multiperiodo|Bot de descarga desde Mis Comprobantes (AFIP). Multiusuario y multiperíodo
+VM-Nacional|Máquina virtual con Windows 7 y Nacional Software para Testear las funcionalidades del programa antes de instalarlo definitivamente en una computadora/servidor
+abustosp|
+Control-Monotributistas-2.0|Control de monotributistas 2.0 con descarga de MC, Descarga de Facturas y cruce con rango de facturación
+Proyecto-GYM|Pagina para GYM con administrador de Rutinas
+DeepSound|Official DeepSound repository migrated from jpinsoft.net. DeepSound is a freeware steganography tool and audio converter that hides secret data into audio files. The application also enables you to…
+Descarga-y-Cruce-para-IVA|Descarga y Cruce de MC y Portal IVA para generar los asientos contables y el papel de trabajo para el F2002
+Descarga-y-Carga-COMVEN-LID|Descargar de manera masiva los Archivos de Comprobantes Recibidos y Emitidos de AFIP del servicio de Libro IVA Digital. Y BOT para subir los archivos de compras y ventas al LID
+Descarga-datos-monotributo|Descarga de Datos desde el servicio de monotributo
+BOT-Descarga-Mis-Retenciones-de-IVA-AFIP|Bot para descargar las retenciones de IVA desde AFIP
+Facturador-Multiusuario|Facturador Multiusuario del servicio de Comprobantes en Linea
+Arreglar-Compras-CSV-PIVA|
+Bot-Recetas-PAMI|
+Facturador-E-Multiusuario|Bot para hacer facturas E de manera masiva Multiusuario
+Consulta-Padron-ARBA-RETPER|
+Tkinter-Designer|An easy and fast way to create a Python GUI 🐍
+BOT-Descarga-CCMA|BOT de descarga masiva de las cuentas corrientes de monotributistas y autónomos desde la página de AFIP
+Bot-Generador-de-VEPs|BOT para generar VEPs desde el servicio de DDJJ y pagos en AFIP
+dlssg-to-fsr3|Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
+Subir-PEM-a-AFIP|Subir PEM de Controladores Fiscales a AFIP en DDJJ y pagos
+stable-diffusion-webui|Stable Diffusion web UI
+Descarga-Libros-IVA-Presentados|Bot para descargar masivamente los Libros IVA presentados
+consolidar-y-controlar-RG17|Script de Python para consolidar los archivos TXT de la 17 eliminando los registros duplicados y ordenándolos por fecha
+Descarga-DDJJ-IVA|Bot para descargar masivamente las Delcaraciónes Juradas de IVA del servicio Mis Aplicaciones WEB de AFIP y posterior data scrapping con Python
+IVA-Compras-y-Ventas-PDF-y-TXT-de-LID|BOT para importar los comprobantes de MC y descargar los libros IVA Compras y Ventas tanto en formato PDF como en TXT para el libro IVA digital
+Fiserv|Script para Automatizar el procesamiento de Fiserv
+peladonerd|Repo con los archivos que uso para mi videos en youtube
+API-SOS-Contador|Test de APIs de SOS-Contador
+Descarga-de-Cuentas-Tributarias|Descarga de los Excels de Cuentas Tributarias
+dockge|A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+Ollama-stacks|This repo brings numerous use cases from the Open Source Ollama
+Configuraciones|Archivos con las configuraciones de los distintos Programas/Bots realizados
+PEM-a-Excel|Instructivo para pasar los PEM de los controladores Fiscales a Excel
+Tagger-for-flarum|Tagger Bot for flarum forums tags
+Bot-Telegram-API-Tango|
+Test-Webservices-AFIP|Consulta de distintos Webservices de AFIP
+Arreglar-compras-CSV-Holistor-FP|Programa para arreglar los CSV de compras para importarlos al Holistor por Fede Perret
+Pagina-caida-webpage-Flask-en-docker|Creación de página de Error de página en Flask con docker
+Descarga-DDJJ-IIBB|Bot para descargar masivamente todas las DDJJ de IIBB presentadas de todos los contribuyentes locales + los pertenecientes al convenio multilateral
+Nacional-Fixer-Comprobantes|
+fonts|Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+CUIT-Online-Scrapper|Scrappeador de actividades de CUIT online
+Descarga-de-Alicuotas-de-AGIP|Descarga de alícutoas de AGIP
+CSV-Portal-IVA-a-Holistor|Script para convertir los CSV de Portal IVA al modelo de importación de Compras de Holistor
+material-design-icons|Material Design icons by Google
+Merge-last-page-PDF|Consolidación de las últimas hojas de todos los PDF de una carpeta
+bot-facturacion-python|Bot de facturación para monotributistas
+Librerias-Propias|Librerías propias utilizadas en distintos proyectos
+Descarga-Constancias-de-Inscripcion|Bot para descargar masivamente las Constancias de Inscripción de AFIP
+Modelo-de-login-de-AFIP|Modelo de Login de AFIP para implementar en otros Bots
+Calculadora-de-IVA|
+IVA_Calculator|Este programa calcula de manera masiva las posiciones de IVA de los contribuyentes
+Control-Monotributistas|Progrma para hacer el control de las categorías de los monotributistas
+BOT-Importar-RETPER-SOS|Importación masiva de Retenciones y Percepciones a SOS
+SIRE|Programa para Automatizar la correctión de archivos a importar en el SIRE en base a los datos de Mis Comprobantes Recibidos y el Archivo originar de SIRE
+Reporte-Estaciones-CALDEN-OIL|Reporte de Estado de estaciones de servicio en base a reportes del software CALDEN OIL
+Novedades-Salary|Script para automatizar el Procesamiento de Novedades para la liquidación de sueldos en el Software Salary de BAS
+Prorrateo-IVA-y-Ajuste-Art-13-SOS-Contador|Programa para hacer el prorrateo de IVA y el ajuste anual del Art13
+Create-folder-from-TXT|Batch folder creation based on a TXT file
+Calculadora-de-IVA-y-Consolidar-TXT-de-LID|
+Analisis-de-Exportaciones-con-los-Precios-Intercuartiles|Analisis de Precios Intercuartiles por NCM-SIM y por descripción arancelaria y ajuste correspondientes en caso de exportaciones
+Extractos-a-SOS-Contador|Bot para importar los extractos bancarios al SOS-Contador
+Papeles-de-Trabajo-IVA-IIBB-SOS-contador|Descarga masiva de los papeles de trabajo de IVA e ingresos brutos en SOS-Contador
+Calculadora-de-IVA-2.0|Calculadora de Posición de IVA Versión 2.0
+awesome-document-understanding|A curated list of resources for Document Understanding (DU) topic
+startbootstrap-sb-admin-2|A free, open source, Bootstrap admin theme created by Start Bootstrap
+Modelo-en-Python|
+Py-GPT-3|"Programa ""local"" para utilizar la API de GPT-3"
+IVACalculator|
+Modelo-Base-PT|
+TTDC-APK|
+pyhomebroker|
+Bot-cruce-Riggio|
+bot-descarga-MC-selenium|Bot de descarga de comprobantes desde Mis Comprobantes (AFIP)
+gymazwafitness|
+Curso-de-introduccion-a-Selenium-con-Python|Curso de introduccion a Selenium con Python realizado en Platzi
+web-scraper-chrome-extension|Web data extraction tool implemented as chrome extension
