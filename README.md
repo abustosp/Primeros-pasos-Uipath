@@ -13,6 +13,8 @@ A continuación se va a ir poniendo los temas que se tratan con los links de los
 
 3. [Introducción a la Interfaz de UiPath](https://youtu.be/OW203VlKOYM): se mostrará la interfaz de Uipath, se explicará brevemente las partes que la componen y cuales son las que se van a utilizar con mayor frecuencia. 
 
+4. [Habilitación de las actividades Clásicas](https://youtu.be/N7vSZoKe7Xo?si=6vsU5qABoqf-BE53): Se mostrará la habilitación de las actividades clásicas, que fueron quitadas con actualizaciones del sistema. Este video es a fin que se muestren las mismas actividades que se muestran a continuación.
+
 
 ## Actividades
 
